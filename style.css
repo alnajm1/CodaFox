@@ -1,4 +1,4 @@
- <style>
+ 
         code[class*="language-"],
         pre[class*="language-"] {
             color: #1C1C04;
@@ -110,10 +110,7 @@
       .token.attr-value {
     color: #d80cdb;
 }
-    </style>
 
-
-  <style>
 
    .code-box {
             border: 1px solid #ccc;
@@ -395,6 +392,3 @@
    .post-body p {
     margin-bottom: 10px;
 }
-    
-    
-    </style>
